@@ -17,7 +17,7 @@ _Help with setting up Bots/UserBots is included in the price._
 
 _For Juridical Persons (Business Entity) the price will be based on the customer requirements. The payment will be charged as USD/hour_
 
-**Other Services:**
+## Other Services:
 
 The customers can host the Bot/UserBot all by themselves or he can receive an already hosted app by the Developer.
 
