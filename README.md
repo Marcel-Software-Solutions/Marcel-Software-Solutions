@@ -4,11 +4,11 @@
 
 _Telegram Bot:_
 
-- 15.99$ 
+- 15.99$/hour
 
 _Telegram UserBot:_
 
-- 24.99$
+- 24.99$/hour
 
 
 
