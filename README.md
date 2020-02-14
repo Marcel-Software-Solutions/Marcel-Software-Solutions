@@ -4,11 +4,11 @@
 
 _Telegram Bot:_
 
-- 15.99$/hour
+- 15.90$/hour
 
 _Telegram UserBot:_
 
-- 24.99$/hour
+- 25$/hour
 
 
 
@@ -21,7 +21,7 @@ _For Juridical Persons (Business Entity) the price will be based on the customer
 
 The customers can host the Bot/UserBot all by themselves or he can receive an already hosted app by the Developer.
 
-Hosting and maintaining the Bot/UserBot on a server of the Developer will include a fee of 14.99$/month.
+Hosting and maintaining the Bot/UserBot on a server of the Developer will include a fee of 14.70$/month.
 
 
 
