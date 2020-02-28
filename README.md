@@ -51,7 +51,7 @@ The price of external projects (Bots/UserBots for other messaging services, apps
 
 - Telegram: https://t.me/marcelnitan
 
-- Email: nitan.marcel@protonmail.com
+- Email: marcelnitan@protonmail.com
 
 - GitHub:
 https://github.com/nitanmarcel
